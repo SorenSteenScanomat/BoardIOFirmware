@@ -4,6 +4,3 @@
 [submodule "Core/CommonMCUInterface"]
 	path = Core/CommonMCUInterface
 	url = https://github.com/scanomat/BoardCommonInterface
-[submodule "Core/BoardCommonCANProtocol"]
-	path = Core/BoardCommonCANProtocol
-	url = https://github.com/scanomat/BoardCommonCANProtocol
